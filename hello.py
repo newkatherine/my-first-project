@@ -1,2 +1,2 @@
 print("Hello, Katherine!")
-print("Nice to meet you!")
+print("I am learning GitHub!")
